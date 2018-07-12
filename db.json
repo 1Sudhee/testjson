@@ -1,0 +1,55 @@
+{
+                "type": "FeatureCollection",
+                "features": [{
+                                                                "type": "Feature",
+                                                                "properties": {
+                                                                                "status": "P1",
+                                                                                "latitude": 12.979049,
+                                                                                "longitude": 77.665901,
+                                                                                "congress_park_inventory_zone": "Zone 6: NW: north of East Congress St & West of walkway to Putnam St",
+                                                                                "plaque": "no",
+                                                                                "2012_inventory_number": "56",
+                                                                                "species_sim": "Sugar maple",
+                                                                                "circumference_2012_inches_at_breast_height_": "88",
+                                                                                "dbh_2012_inches_diameter_at_breast_height_46": "28",
+                                                                },
+                                                                "geometry": {
+                                                                                "type": "Point",
+                                                                                "coordinates": [77.665901, 12.979049]
+                                                                }
+                                                }, {
+                                                                "type": "Feature",
+                                                                "properties": {
+                                                                                "status": "P2",
+                                                                                "latitude": 12.978655,
+                                                                                "longitude": 77.660701,
+                                                                                "congress_park_inventory_zone": "Zone 6: NW: north of East Congress St & West of walkway to Putnam St",
+                                                                                "plaque": "no",
+                                                                                "2012_inventory_number": "56",
+                                                                                "species_sim": "Sugar maple",
+                                                                                "circumference_2012_inches_at_breast_height_": "88",
+                                                                                "dbh_2012_inches_diameter_at_breast_height_46": "28",
+                                                                },
+                                                                "geometry": {
+                                                                                "type": "Point",
+                                                                                "coordinates": [77.660701, 12.978655]
+                                                                }
+                                                }, {
+                                                                "type": "Feature",
+                                                                "properties": {
+                                                                                "status": "P3",
+                                                                                "latitude": 12.978754,
+                                                                                "longitude": 77.663136,
+                                                                                "congress_park_inventory_zone": "Zone 6: NW: north of East Congress St & West of walkway to Putnam St",
+                                                                                "plaque": "no",
+                                                                                "2012_inventory_number": "56",
+                                                                                "species_sim": "Sugar maple",
+                                                                                "circumference_2012_inches_at_breast_height_": "88",
+                                                                                "dbh_2012_inches_diameter_at_breast_height_46": "28",
+                                                                },
+                                                                "geometry": {
+                                                                                "type": "Point",
+                                                                                "coordinates": [77.663136, 12.978754]
+                                                                }
+                                                }
+                                                ] }
